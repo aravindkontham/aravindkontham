@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aravind Kontham</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Science student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindkontham&label=Profile%20views&color=0e75b6&style=flat" alt="aravindkontham" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravindkontham" alt="aravindkontham" /></a> </p>
 
-- 🔭 I’m currently learning **Python**
+- 🔭 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aravindkontham](https://github.com/aravindkontham)
 
-- 💬 Ask me about **Python and Java**
+- 💬 Ask me about **Python, Java, SQL, Tableau and Web Scrapping**
 
-- 📫 How to reach me **aravindkontham11**
+- 📫 How to reach me **aravindkontham11gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
